@@ -502,11 +502,13 @@
 
     <repositories>
         <!--阿里云仓库-->
+        <!--
         <repository>
             <id>aliyun</id>
             <name>aliyun-maven</name>
             <url>http://maven.aliyun.com/nexus/content/groups/public/</url>
         </repository>
+        -->
         <!-- 阿里云spring仓库 -->
         <repository>
             <id>spring-milestones</id>
